@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yangchogosu
+- 👋 Hi, I’m Jungwoo Kim aka yangchogosu
 - 👀 I’m interested in computational neuroscience.
 - 🌱 I’m currently learning dynamical systems and fMRI
 - 📫 How to reach me didch1789@gmail.com
